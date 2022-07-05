@@ -14,4 +14,5 @@ Esse é o repositório da ula de Javascript, na qual fizemos um simples jogo Gê
 **Uma demonstraçao do Resultado Final:**
 
 
-![jogo 2 (2)](https://user-images.githubusercontent.com/88461178/143474450-cede3db3-c2f0-45bc-9f2a-b9d0f2f7b7c9.PNG)
+![Capturar](https://user-images.githubusercontent.com/88461178/177386200-22dee22f-65f8-4765-8060-ae0242610a1a.JPG)
+
